@@ -4,3 +4,4 @@ Astropath will be a streamlined, user-friendly astrophotography tool designed to
 
 Essential features will include a Lightroom-style interface for easy image selection, basic batch import functionality focused on TIFF files, and preset options for users to save and quickly access their preferred processing configurations. Astropath will also include a basic starlapse creation feature, allowing users to convert sequences of night-sky images into time-lapse videos. This version will emphasize efficient workflows for astrophotographers, allowing them to create polished visual effects with minimal manual intervention and without the need for additional tools.
 
+To view project first clone the repository, cd into project and then app folder, then run wails dev!
