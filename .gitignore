@@ -1,0 +1,4 @@
+.DS_Store
+app/appsettings.json
+/app/output/timelapse_frames
+/app/output/timelapse
